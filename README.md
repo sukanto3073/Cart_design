@@ -1,17 +1,4 @@
-# design_assignment
+# Cart_design_assignment
+![WhatsApp Image 2022-09-30 at 2 04 00 AM](https://user-images.githubusercontent.com/96297630/193131196-132fbd8c-fedd-4214-b64b-292aebe5c28b.jpeg)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Cart_design
